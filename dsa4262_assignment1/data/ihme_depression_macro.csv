@@ -1,0 +1,171 @@
+population_group_id,population_group_name,measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+1,All Population,5,Prevalence,135,Brazil,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,1990,0.0372283428812867,0.043475985323123,0.0305173820129987
+1,All Population,5,Prevalence,163,India,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,1990,0.0304693371028251,0.0371628477124086,0.024555401496772
+1,All Population,5,Prevalence,69,Singapore,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,1991,0.0158293375803505,0.0189057754426189,0.0128540357330527
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,1991,0.0303568784850839,0.0356383204444417,0.025163633833495
+1,All Population,5,Prevalence,102,United States of America,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,1990,0.0373648545921711,0.0428029454342767,0.0313672259805912
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,1990,0.0303316911158417,0.035709526592267,0.0251223786008099
+1,All Population,5,Prevalence,69,Singapore,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,1990,0.0150395022978102,0.0180831938428053,0.0121382373178576
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,1992,0.0303077503303468,0.0354122781090585,0.0252713010636149
+1,All Population,5,Prevalence,135,Brazil,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,1991,0.0372505626835435,0.0432322663623702,0.0305548016301323
+1,All Population,5,Prevalence,163,India,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,1991,0.0308348372916037,0.0376492467174128,0.0250016779132776
+1,All Population,5,Prevalence,69,Singapore,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,1992,0.0151101846582928,0.0179632688782246,0.0123188265215742
+1,All Population,5,Prevalence,102,United States of America,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,1991,0.0384163168227839,0.0437924487334001,0.0323635907167344
+1,All Population,5,Prevalence,135,Brazil,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,1992,0.0372723690205423,0.0431220726525531,0.030774275582188
+1,All Population,5,Prevalence,135,Brazil,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,1993,0.0372936238921628,0.0431814104341345,0.0310952231281328
+1,All Population,5,Prevalence,163,India,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,1992,0.0309703180089158,0.03768336999962,0.025194387633888
+1,All Population,5,Prevalence,163,India,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,1993,0.029788102049163,0.0360506414474344,0.0243883061974241
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,1994,0.0304104012274255,0.0351971307976905,0.0256709600519849
+1,All Population,5,Prevalence,102,United States of America,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,1992,0.0372824057341458,0.042324145649308,0.0315085932458501
+1,All Population,5,Prevalence,69,Singapore,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,1994,0.0161818480800442,0.0192039179571833,0.0133352261720498
+1,All Population,5,Prevalence,69,Singapore,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,1993,0.0154977424831878,0.0184561739799095,0.0126771128361081
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,1993,0.0300903914879576,0.0349574411597117,0.0252866815241462
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,1995,0.0302773797758789,0.0346875329060444,0.0257988675567965
+1,All Population,5,Prevalence,135,Brazil,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,1994,0.0373106326196332,0.0432054543624978,0.0314819591259663
+1,All Population,5,Prevalence,102,United States of America,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,1993,0.0379394191664158,0.0429224189728374,0.0323088071246377
+1,All Population,5,Prevalence,69,Singapore,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,1995,0.0151798765443629,0.0179200950421397,0.0125992512582431
+1,All Population,5,Prevalence,163,India,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,1994,0.0306733200400917,0.0370342388880773,0.0251709161793815
+1,All Population,5,Prevalence,135,Brazil,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,1995,0.0373214370239069,0.0431198713986499,0.0315412444859627
+1,All Population,5,Prevalence,163,India,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,1995,0.0303405121379078,0.0364488775839233,0.02503853165374
+1,All Population,5,Prevalence,102,United States of America,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,1994,0.0378263875565999,0.0424092896858582,0.0325973011060229
+1,All Population,5,Prevalence,69,Singapore,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,1996,0.0155075111701597,0.0182377084870766,0.0129497804642363
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,1996,0.0304715821295916,0.0346027306715945,0.0261672032586983
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,1997,0.0305773294191042,0.0347987411936453,0.0264245592323838
+1,All Population,5,Prevalence,102,United States of America,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,1995,0.0375489417458823,0.0420916547887075,0.032553984743026
+1,All Population,5,Prevalence,163,India,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,1996,0.030112242803678,0.0359294147700058,0.0250322538730169
+1,All Population,5,Prevalence,69,Singapore,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,1997,0.0155339376466181,0.0181433284753641,0.0130007340314653
+1,All Population,5,Prevalence,135,Brazil,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,1996,0.0373220365547973,0.043119082512267,0.0316900265824219
+1,All Population,5,Prevalence,69,Singapore,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,1998,0.0152598569978959,0.0178515160700992,0.01284398037677
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,1998,0.0307180453807792,0.0347720653799296,0.0267283177861549
+1,All Population,5,Prevalence,163,India,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,1997,0.0305118528906412,0.03630050077884,0.0255268861976599
+1,All Population,5,Prevalence,135,Brazil,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,1997,0.0373343408492075,0.0429131893221021,0.0319464096010703
+1,All Population,5,Prevalence,102,United States of America,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,1996,0.0380306996679179,0.0423834301254099,0.0331421138964538
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,1999,0.0309262788399664,0.0350412921831257,0.0269999291823241
+1,All Population,5,Prevalence,163,India,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,1998,0.0304792142890426,0.0362244980699039,0.0254574150984677
+1,All Population,5,Prevalence,135,Brazil,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,1998,0.0373414351550421,0.0428812819829615,0.0321989748391858
+1,All Population,5,Prevalence,69,Singapore,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,1999,0.0153195578449336,0.0179795425001643,0.0130300905031871
+1,All Population,5,Prevalence,102,United States of America,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,1997,0.0374482691256133,0.0418409718278827,0.0329271304179331
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2000,0.0309963746081093,0.0353543006595019,0.0271558079579604
+1,All Population,5,Prevalence,163,India,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,1999,0.0305812407164933,0.0362147243792543,0.0256970351360486
+1,All Population,5,Prevalence,69,Singapore,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2000,0.0153576329640618,0.0180606687832653,0.0130734028408019
+1,All Population,5,Prevalence,135,Brazil,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,1999,0.0373316312867158,0.0429372010438274,0.0321981745651729
+1,All Population,5,Prevalence,69,Singapore,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2001,0.0154044921947781,0.0180226595034585,0.0130824904679156
+1,All Population,5,Prevalence,102,United States of America,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,1998,0.0377317169482634,0.0423045469095524,0.0333461517169124
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2001,0.031060211697399,0.035552218121197,0.0271752873212566
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2002,0.0313130714325754,0.0358773048456202,0.0272831697749492
+1,All Population,5,Prevalence,163,India,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2000,0.0308269820344803,0.0365523095558755,0.0257174253573346
+1,All Population,5,Prevalence,135,Brazil,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2000,0.0373008245944455,0.0431137553585128,0.0323047748965838
+1,All Population,5,Prevalence,69,Singapore,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2002,0.0154221672439489,0.0180014799134801,0.0131515606807453
+1,All Population,5,Prevalence,135,Brazil,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2001,0.0370475433726393,0.0430411988888013,0.0320309152548161
+1,All Population,5,Prevalence,163,India,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2001,0.0306764237239851,0.0363315510032071,0.0256073645136465
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2003,0.0313940703694144,0.0358782551385479,0.0273801122760972
+1,All Population,5,Prevalence,69,Singapore,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2003,0.01544025406123,0.0181286241171227,0.0131460225400591
+1,All Population,5,Prevalence,163,India,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2002,0.0311407078779193,0.0367915333357918,0.0258438309140581
+1,All Population,5,Prevalence,102,United States of America,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,1999,0.0377279516710532,0.0424642212796501,0.0335189932839896
+1,All Population,5,Prevalence,135,Brazil,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2002,0.0366746191954793,0.0427570130047337,0.0316321248289073
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2004,0.0315798475361437,0.0362591712126541,0.0273899323758791
+1,All Population,5,Prevalence,102,United States of America,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2000,0.0379579684463512,0.0430163009318508,0.0340330755649022
+1,All Population,5,Prevalence,69,Singapore,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2004,0.0154715909958966,0.018163099705563,0.0131671811077828
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2005,0.0316653801375533,0.0365242439464832,0.02736329583689
+1,All Population,5,Prevalence,163,India,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2003,0.0312451885964834,0.0370376539561023,0.0260414246275381
+1,All Population,5,Prevalence,135,Brazil,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2003,0.0362057684749545,0.0422223560901174,0.0312189288546861
+1,All Population,5,Prevalence,69,Singapore,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2005,0.0155310292227805,0.0182007770130676,0.0131182213292376
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2006,0.0317890590564953,0.036595027885426,0.027663934901781
+1,All Population,5,Prevalence,102,United States of America,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2001,0.0387547788419949,0.0438362106610332,0.0348457546060436
+1,All Population,5,Prevalence,69,Singapore,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2006,0.0156338098177715,0.0183466025076574,0.0132216089816513
+1,All Population,5,Prevalence,163,India,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2004,0.0312212341062227,0.0371189674153175,0.0258982732881429
+1,All Population,5,Prevalence,135,Brazil,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2004,0.0357164035590017,0.041463956635491,0.0309407646688616
+1,All Population,5,Prevalence,102,United States of America,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2002,0.0389347628011999,0.044124458538002,0.0351039989697374
+1,All Population,5,Prevalence,135,Brazil,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2005,0.0353474382274831,0.0411122531743327,0.0303576214142707
+1,All Population,5,Prevalence,163,India,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2005,0.0316151296714204,0.0375423977248042,0.0263562750190704
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2007,0.0320478064779728,0.0368327135128015,0.0280243972799533
+1,All Population,5,Prevalence,69,Singapore,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2007,0.0157271485475664,0.0184480673129157,0.0132958054902006
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2008,0.0320312520300129,0.0367009658048405,0.027822365875538
+1,All Population,5,Prevalence,69,Singapore,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2008,0.0158206681869989,0.0184479964318593,0.0134288038127534
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2009,0.0322837452184697,0.0368842862151699,0.0280503891946272
+1,All Population,5,Prevalence,102,United States of America,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2003,0.0398077771571675,0.0453604603462909,0.0359767852680735
+1,All Population,5,Prevalence,163,India,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2006,0.0317256249617118,0.0376331404975648,0.0266325973934171
+1,All Population,5,Prevalence,135,Brazil,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2006,0.0350365038323839,0.040720159360051,0.0300490254852867
+1,All Population,5,Prevalence,69,Singapore,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2009,0.015940165172742,0.0185175569872928,0.013588737045438
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2010,0.0323568325047911,0.036823554934691,0.0281179925908365
+1,All Population,5,Prevalence,69,Singapore,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2010,0.0160606503654136,0.0186444675164131,0.0136926061192464
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2011,0.0324811150551685,0.0369497022689077,0.0282691903343228
+1,All Population,5,Prevalence,135,Brazil,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2007,0.0347346039802836,0.0403148996545539,0.0299415670390196
+1,All Population,5,Prevalence,163,India,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2007,0.0318290276845233,0.0375747884619975,0.0268529303111471
+1,All Population,5,Prevalence,69,Singapore,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2011,0.0161707493752558,0.0187667890465533,0.0138037744152324
+1,All Population,5,Prevalence,102,United States of America,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2004,0.0403181971022363,0.0458227661129705,0.0364726822489268
+1,All Population,5,Prevalence,163,India,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2008,0.0322292318950965,0.0378327146871586,0.0274294607382904
+1,All Population,5,Prevalence,135,Brazil,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2008,0.0344203010665151,0.0398003225769177,0.0299867369661621
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2012,0.0325559351813329,0.037046483970844,0.0283906824194219
+1,All Population,5,Prevalence,69,Singapore,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2012,0.0162487458133159,0.0189202331226738,0.0138364428530881
+1,All Population,5,Prevalence,163,India,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2009,0.0323426926295866,0.0376958897226641,0.027604652004071
+1,All Population,5,Prevalence,135,Brazil,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2009,0.0340874855302117,0.0389801170371451,0.02979212423838
+1,All Population,5,Prevalence,102,United States of America,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2005,0.0407380994821683,0.0463034117037539,0.0365926358328609
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2013,0.0325995850728621,0.0372894946802517,0.0283735445115211
+1,All Population,5,Prevalence,69,Singapore,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2013,0.016310153957226,0.0190956246668997,0.0138349730701172
+1,All Population,5,Prevalence,135,Brazil,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2010,0.0337492031074246,0.0380222420614163,0.0295478982849038
+1,All Population,5,Prevalence,163,India,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2010,0.0325349664145128,0.0379508360592321,0.0276915788508146
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2014,0.032780652961653,0.0377048994155564,0.0284307469789644
+1,All Population,5,Prevalence,135,Brazil,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2011,0.0335796450903893,0.0375950404998898,0.029566509454735
+1,All Population,5,Prevalence,102,United States of America,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2006,0.0413495324968935,0.0468497647089541,0.0369961626207689
+1,All Population,5,Prevalence,163,India,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2011,0.0327406805108207,0.0382268258809171,0.0278897208658573
+1,All Population,5,Prevalence,69,Singapore,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2014,0.0163844317261536,0.0193188345866549,0.0138871037025615
+1,All Population,5,Prevalence,135,Brazil,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2012,0.0334856696947148,0.037658551686839,0.0294628608835576
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2015,0.0328872929375278,0.0380727872536352,0.0284445920824169
+1,All Population,5,Prevalence,163,India,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2012,0.0327279158954266,0.0381427331418989,0.0279493433936715
+1,All Population,5,Prevalence,69,Singapore,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2015,0.0164921415145674,0.0194464306348416,0.0139142704441516
+1,All Population,5,Prevalence,135,Brazil,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2013,0.0334720765701493,0.0376379791342518,0.0293986542259523
+1,All Population,5,Prevalence,163,India,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2013,0.0326666454064308,0.0380325212786985,0.027993831617092
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2016,0.0331308431145597,0.0383187683608151,0.0286862879482362
+1,All Population,5,Prevalence,69,Singapore,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2016,0.0166130376247545,0.0197117461139069,0.0139804481051436
+1,All Population,5,Prevalence,135,Brazil,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2014,0.0334960098246718,0.0377379825536331,0.0293365667007656
+1,All Population,5,Prevalence,163,India,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2014,0.0327709396828662,0.0382211099485073,0.0280905650755873
+1,All Population,5,Prevalence,135,Brazil,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2015,0.033443534335361,0.0379814934983851,0.0293599711283474
+1,All Population,5,Prevalence,163,India,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2015,0.0327025145581537,0.0382704558076572,0.0280524004485845
+1,All Population,5,Prevalence,135,Brazil,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2016,0.033376142355116,0.0377999362472002,0.0292982729972534
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2017,0.0332658161152665,0.0385339188270393,0.0288634347381089
+1,All Population,5,Prevalence,163,India,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2016,0.0326414026362735,0.0382825790738782,0.0280904370740483
+1,All Population,5,Prevalence,69,Singapore,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2017,0.0167642289363961,0.0198404430600329,0.0141374289841146
+1,All Population,5,Prevalence,135,Brazil,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2017,0.0333109783029383,0.0378000772170117,0.0291815998602787
+1,All Population,5,Prevalence,163,India,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2017,0.0326959444444429,0.0385791955204642,0.0282331199401648
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2018,0.0333789430304098,0.0387610365762227,0.0290869307700851
+1,All Population,5,Prevalence,69,Singapore,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2018,0.0169044783873515,0.020031343743654,0.014307960384054
+1,All Population,5,Prevalence,135,Brazil,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2018,0.0332598946114861,0.0378665031762597,0.0291650554580364
+1,All Population,5,Prevalence,102,United States of America,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2007,0.0418749376460329,0.0472852782292674,0.0375029841567545
+1,All Population,5,Prevalence,163,India,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2018,0.0324902276762084,0.0384087697931239,0.0280541914468319
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2019,0.0335279271336725,0.0391563889702907,0.0294272164574338
+1,All Population,5,Prevalence,69,Singapore,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2019,0.0170173450204692,0.0200495322321283,0.0144423701298479
+1,All Population,5,Prevalence,135,Brazil,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2019,0.0332291808703551,0.0378054722499641,0.0292448790867258
+1,All Population,5,Prevalence,163,India,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2019,0.0324994492319301,0.0385403947170466,0.0281587489317693
+1,All Population,5,Prevalence,102,United States of America,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2008,0.042254968050759,0.0473970081842534,0.0379490402825177
+1,All Population,5,Prevalence,102,United States of America,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2009,0.0427975414854674,0.0477181093292958,0.0380981188209592
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2020,0.0390855382578106,0.0456658596354586,0.0342284540236459
+1,All Population,5,Prevalence,69,Singapore,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2020,0.0185670929837338,0.0219809538752797,0.0158640722656955
+1,All Population,5,Prevalence,135,Brazil,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2020,0.0404545699864812,0.0464566871878266,0.0356799635401322
+1,All Population,5,Prevalence,163,India,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2020,0.0385405994139559,0.0459334646073637,0.0331854901885941
+1,All Population,5,Prevalence,102,United States of America,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2010,0.0432642821092399,0.048280926615594,0.0383752377822802
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2021,0.0393586044405812,0.0458883939209461,0.0344354909441233
+1,All Population,5,Prevalence,69,Singapore,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2021,0.0198013842205217,0.0233161390992402,0.0168950093096472
+1,All Population,5,Prevalence,135,Brazil,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2021,0.0410691400417662,0.0471128521513717,0.0363185605695587
+1,All Population,5,Prevalence,163,India,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2021,0.0377874525067697,0.0450200063074583,0.0325619724049785
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2022,0.0389528987660115,0.0455092176164954,0.0339617647006578
+1,All Population,5,Prevalence,69,Singapore,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2022,0.0190220563361448,0.0224127033868492,0.0162097722290984
+1,All Population,5,Prevalence,102,United States of America,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2011,0.0435460969759909,0.0486205711124443,0.0388328160198872
+1,All Population,5,Prevalence,135,Brazil,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2022,0.0397223064943368,0.0455718477349263,0.0351454390690138
+1,All Population,5,Prevalence,163,India,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2022,0.0378373474531615,0.0452110120234939,0.0325008514761092
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2023,0.0394802204081851,0.0462727797090156,0.0342794222834436
+1,All Population,5,Prevalence,69,Singapore,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2023,0.0192183339259697,0.0225971494038183,0.0161436515952977
+1,All Population,5,Prevalence,102,United States of America,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2012,0.0438418424046822,0.0490740937117077,0.039053951102468
+1,All Population,5,Prevalence,163,India,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2023,0.0379753721184295,0.0453734951812447,0.0324429983553634
+1,All Population,5,Prevalence,135,Brazil,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2023,0.0402989809397061,0.0463150618655313,0.0354313324660342
+1,All Population,5,Prevalence,102,United States of America,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2013,0.0439818744897111,0.0493471051750395,0.0390598535764226
+1,All Population,5,Prevalence,102,United States of America,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2014,0.0440144574559554,0.0496933368594387,0.0389072839743099
+1,All Population,5,Prevalence,102,United States of America,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2015,0.0439085946186195,0.0496155393048109,0.0385431244751325
+1,All Population,5,Prevalence,102,United States of America,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2016,0.0440018775490705,0.0497109625517344,0.0387119228315205
+1,All Population,5,Prevalence,102,United States of America,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2017,0.0436697922288249,0.04938668197655,0.0384459229682184
+1,All Population,5,Prevalence,102,United States of America,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2018,0.0432755559802692,0.0488491923931445,0.0380324929521681
+1,All Population,5,Prevalence,102,United States of America,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2019,0.0432489900755145,0.0488960542977026,0.0380246305160039
+1,All Population,5,Prevalence,102,United States of America,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2020,0.0507600956690342,0.057849980269764,0.0447060087666882
+1,All Population,5,Prevalence,102,United States of America,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2021,0.0501837451019951,0.0572268266280468,0.0440626496720021
+1,All Population,5,Prevalence,102,United States of America,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2022,0.048455000554105,0.0552870287297798,0.0425801698200458
+1,All Population,5,Prevalence,102,United States of America,3,Both,27,Age-standardized,567,Depressive disorders,2,Percent,2023,0.0500733577357303,0.0571264633104598,0.043826619900057

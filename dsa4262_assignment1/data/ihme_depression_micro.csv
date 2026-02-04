@@ -1,0 +1,65 @@
+population_group_id,population_group_name,measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+1,All Population,5,Prevalence,69,Singapore,1,Male,7,10-14 years,567,Depressive disorders,2,Percent,2020,0.016366037282929,0.0232573004315742,0.0110812667106147
+1,All Population,5,Prevalence,69,Singapore,2,Female,7,10-14 years,567,Depressive disorders,2,Percent,2020,0.024731092359706,0.034199179973117,0.0180912188004361
+1,All Population,5,Prevalence,69,Singapore,1,Male,8,15-19 years,567,Depressive disorders,2,Percent,2020,0.0213687841425415,0.027485122710482,0.0152380853970523
+1,All Population,5,Prevalence,69,Singapore,2,Female,8,15-19 years,567,Depressive disorders,2,Percent,2020,0.026950819513398,0.0341430920886673,0.0202395061428272
+1,All Population,5,Prevalence,69,Singapore,1,Male,9,20-24 years,567,Depressive disorders,2,Percent,2020,0.0207985993965234,0.0263275307088212,0.0161860652549045
+1,All Population,5,Prevalence,69,Singapore,2,Female,9,20-24 years,567,Depressive disorders,2,Percent,2020,0.0263232191540501,0.0331777158298142,0.0209881427546387
+1,All Population,5,Prevalence,69,Singapore,1,Male,10,25-29 years,567,Depressive disorders,2,Percent,2020,0.0204245789419871,0.0259616469389219,0.0160671853045375
+1,All Population,5,Prevalence,69,Singapore,2,Female,10,25-29 years,567,Depressive disorders,2,Percent,2020,0.0260616597118817,0.0322162090608638,0.0208195492644653
+1,All Population,5,Prevalence,69,Singapore,1,Male,11,30-34 years,567,Depressive disorders,2,Percent,2020,0.0199426901218864,0.025478343593769,0.0151575277687043
+1,All Population,5,Prevalence,69,Singapore,2,Female,11,30-34 years,567,Depressive disorders,2,Percent,2020,0.0256791583116622,0.0320003228603677,0.0203431856753198
+1,All Population,5,Prevalence,69,Singapore,1,Male,12,35-39 years,567,Depressive disorders,2,Percent,2020,0.0192097461307906,0.0243482846492385,0.0151350909777473
+1,All Population,5,Prevalence,69,Singapore,2,Female,12,35-39 years,567,Depressive disorders,2,Percent,2020,0.0248184127423149,0.0303808111051036,0.0201814558833556
+1,All Population,5,Prevalence,69,Singapore,1,Male,13,40-44 years,567,Depressive disorders,2,Percent,2020,0.0184999255647812,0.0235289783205023,0.0144128943495908
+1,All Population,5,Prevalence,69,Singapore,2,Female,13,40-44 years,567,Depressive disorders,2,Percent,2020,0.0239035822379775,0.0297066963703738,0.0192042045763928
+1,All Population,5,Prevalence,69,Singapore,1,Male,14,45-49 years,567,Depressive disorders,2,Percent,2020,0.0177188312905476,0.0225947871464808,0.013931405797429
+1,All Population,5,Prevalence,69,Singapore,2,Female,14,45-49 years,567,Depressive disorders,2,Percent,2020,0.0229262874933633,0.0286175637510689,0.0182957693590635
+1,All Population,5,Prevalence,69,Singapore,1,Male,15,50-54 years,567,Depressive disorders,2,Percent,2020,0.0171435369438163,0.0222348939528631,0.0137234027639346
+1,All Population,5,Prevalence,69,Singapore,2,Female,15,50-54 years,567,Depressive disorders,2,Percent,2020,0.0222825128029523,0.0281437495491271,0.0184019768542693
+1,All Population,5,Prevalence,69,Singapore,1,Male,16,55-59 years,567,Depressive disorders,2,Percent,2020,0.0167030728816824,0.020818214817376,0.0135726726889234
+1,All Population,5,Prevalence,69,Singapore,2,Female,16,55-59 years,567,Depressive disorders,2,Percent,2020,0.0216528103197196,0.0265091183564137,0.0176986637965792
+1,All Population,5,Prevalence,69,Singapore,1,Male,17,60-64 years,567,Depressive disorders,2,Percent,2020,0.0164317837235959,0.0205415613410438,0.0129566507571337
+1,All Population,5,Prevalence,69,Singapore,2,Female,17,60-64 years,567,Depressive disorders,2,Percent,2020,0.021212628295924,0.0266733788782345,0.0166843494130116
+1,All Population,5,Prevalence,69,Singapore,1,Male,18,65-69 years,567,Depressive disorders,2,Percent,2020,0.0163997092180981,0.0207713941996585,0.0129288580510248
+1,All Population,5,Prevalence,69,Singapore,2,Female,18,65-69 years,567,Depressive disorders,2,Percent,2020,0.0210702658092589,0.0265425504694457,0.016774549268126
+1,All Population,5,Prevalence,69,Singapore,1,Male,19,70-74 years,567,Depressive disorders,2,Percent,2020,0.016212684790135,0.0203980914889317,0.0129011359229793
+1,All Population,5,Prevalence,69,Singapore,2,Female,19,70-74 years,567,Depressive disorders,2,Percent,2020,0.0205941867657684,0.0253830125037826,0.0166460588833451
+1,All Population,5,Prevalence,69,Singapore,1,Male,20,75-79 years,567,Depressive disorders,2,Percent,2020,0.0161766863281529,0.0208238554863855,0.0128709222947337
+1,All Population,5,Prevalence,69,Singapore,2,Female,20,75-79 years,567,Depressive disorders,2,Percent,2020,0.0203238518150282,0.025540344651998,0.0163214001597107
+1,All Population,5,Prevalence,69,Singapore,1,Male,30,80-84 years,567,Depressive disorders,2,Percent,2020,0.0162302387758814,0.0213236284110993,0.0122638139403652
+1,All Population,5,Prevalence,69,Singapore,2,Female,30,80-84 years,567,Depressive disorders,2,Percent,2020,0.0202111025163899,0.0263025088074354,0.0156323911588521
+1,All Population,5,Prevalence,69,Singapore,1,Male,160,85+ years,567,Depressive disorders,2,Percent,2020,0.0168454762359813,0.0216834097150351,0.0129495682488041
+1,All Population,5,Prevalence,69,Singapore,2,Female,160,85+ years,567,Depressive disorders,2,Percent,2020,0.0208553812550945,0.0264025113209453,0.0160603982982845
+1,All Population,5,Prevalence,102,United States of America,1,Male,7,10-14 years,567,Depressive disorders,2,Percent,2020,0.0280220723202481,0.0367387631630452,0.0202506566248664
+1,All Population,5,Prevalence,102,United States of America,2,Female,7,10-14 years,567,Depressive disorders,2,Percent,2020,0.0654311856839419,0.0842382409588735,0.0499216114829822
+1,All Population,5,Prevalence,102,United States of America,1,Male,8,15-19 years,567,Depressive disorders,2,Percent,2020,0.0487747226961908,0.0604989868485793,0.0358556174124672
+1,All Population,5,Prevalence,102,United States of America,2,Female,8,15-19 years,567,Depressive disorders,2,Percent,2020,0.0806160852098131,0.0984523338390013,0.061446835558999
+1,All Population,5,Prevalence,102,United States of America,1,Male,9,20-24 years,567,Depressive disorders,2,Percent,2020,0.047992690860513,0.0583838986779386,0.0394235899316862
+1,All Population,5,Prevalence,102,United States of America,2,Female,9,20-24 years,567,Depressive disorders,2,Percent,2020,0.0797321934585075,0.0957640999037042,0.06657962649828
+1,All Population,5,Prevalence,102,United States of America,1,Male,10,25-29 years,567,Depressive disorders,2,Percent,2020,0.04947819379637,0.0595183152663605,0.0402120057151849
+1,All Population,5,Prevalence,102,United States of America,2,Female,10,25-29 years,567,Depressive disorders,2,Percent,2020,0.0805208892483634,0.0961800998721261,0.0662977614354432
+1,All Population,5,Prevalence,102,United States of America,1,Male,11,30-34 years,567,Depressive disorders,2,Percent,2020,0.0485735343193458,0.0587384508301705,0.0386557629140938
+1,All Population,5,Prevalence,102,United States of America,2,Female,11,30-34 years,567,Depressive disorders,2,Percent,2020,0.0803174651240421,0.0958641929729822,0.0652470804217323
+1,All Population,5,Prevalence,102,United States of America,1,Male,12,35-39 years,567,Depressive disorders,2,Percent,2020,0.0480862051280805,0.0577193158913804,0.0390198969383173
+1,All Population,5,Prevalence,102,United States of America,2,Female,12,35-39 years,567,Depressive disorders,2,Percent,2020,0.081971062307898,0.0963983550489036,0.06760266959047
+1,All Population,5,Prevalence,102,United States of America,1,Male,13,40-44 years,567,Depressive disorders,2,Percent,2020,0.0469648298831365,0.0557690606347413,0.038216339035265
+1,All Population,5,Prevalence,102,United States of America,2,Female,13,40-44 years,567,Depressive disorders,2,Percent,2020,0.0808870874060999,0.0942114374147584,0.0662660070957527
+1,All Population,5,Prevalence,102,United States of America,1,Male,14,45-49 years,567,Depressive disorders,2,Percent,2020,0.0445627224179363,0.0535567276634123,0.0364220791456439
+1,All Population,5,Prevalence,102,United States of America,2,Female,14,45-49 years,567,Depressive disorders,2,Percent,2020,0.0768342480013094,0.0907489475852856,0.0645610670561358
+1,All Population,5,Prevalence,102,United States of America,1,Male,15,50-54 years,567,Depressive disorders,2,Percent,2020,0.0423188905162265,0.0529276611364738,0.0354511098424233
+1,All Population,5,Prevalence,102,United States of America,2,Female,15,50-54 years,567,Depressive disorders,2,Percent,2020,0.0734901708361784,0.0882739283347509,0.0624740443948063
+1,All Population,5,Prevalence,102,United States of America,1,Male,16,55-59 years,567,Depressive disorders,2,Percent,2020,0.0397228186953457,0.0474945821627595,0.0336722196830725
+1,All Population,5,Prevalence,102,United States of America,2,Female,16,55-59 years,567,Depressive disorders,2,Percent,2020,0.0667809602960685,0.078062014378731,0.0569655381165751
+1,All Population,5,Prevalence,102,United States of America,1,Male,17,60-64 years,567,Depressive disorders,2,Percent,2020,0.0375882098213538,0.0448360536746671,0.031689672330424
+1,All Population,5,Prevalence,102,United States of America,2,Female,17,60-64 years,567,Depressive disorders,2,Percent,2020,0.0626773678405303,0.0744916784388729,0.0530008184595081
+1,All Population,5,Prevalence,102,United States of America,1,Male,18,65-69 years,567,Depressive disorders,2,Percent,2020,0.0366525389772367,0.0443145955016916,0.0305287998241895
+1,All Population,5,Prevalence,102,United States of America,2,Female,18,65-69 years,567,Depressive disorders,2,Percent,2020,0.0590020987906471,0.0701453172125884,0.0502316329966876
+1,All Population,5,Prevalence,102,United States of America,1,Male,19,70-74 years,567,Depressive disorders,2,Percent,2020,0.0356168125416296,0.0435635368078188,0.0298846862031577
+1,All Population,5,Prevalence,102,United States of America,2,Female,19,70-74 years,567,Depressive disorders,2,Percent,2020,0.0546335933247276,0.0657876669350708,0.0463075188795839
+1,All Population,5,Prevalence,102,United States of America,1,Male,20,75-79 years,567,Depressive disorders,2,Percent,2020,0.0353698508711653,0.0432567970742581,0.0292866632247487
+1,All Population,5,Prevalence,102,United States of America,2,Female,20,75-79 years,567,Depressive disorders,2,Percent,2020,0.0527229582303145,0.0629681168943481,0.0447057473093077
+1,All Population,5,Prevalence,102,United States of America,1,Male,30,80-84 years,567,Depressive disorders,2,Percent,2020,0.0354054700828004,0.0448284827785866,0.0281198905035196
+1,All Population,5,Prevalence,102,United States of America,2,Female,30,80-84 years,567,Depressive disorders,2,Percent,2020,0.0506508779103772,0.061893759648253,0.0406107521147861
+1,All Population,5,Prevalence,102,United States of America,1,Male,160,85+ years,567,Depressive disorders,2,Percent,2020,0.0353984967027178,0.0446939839593003,0.0284113929059537
+1,All Population,5,Prevalence,102,United States of America,2,Female,160,85+ years,567,Depressive disorders,2,Percent,2020,0.0496018715802236,0.0604648529799152,0.0405943949704401
